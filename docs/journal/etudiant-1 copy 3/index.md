@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIDIBE Nana Kadidia
+title: CHAAIBI Oumaïma
 parent: Journal de bord
 has_children: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Journal de bord
+title: journal de bord
 nav_order: 8
 has_children: true
 ---

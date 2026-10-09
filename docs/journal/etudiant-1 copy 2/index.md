@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIDIBE Nana Kadidia
+title: YAYILKAN Fatma-Nur
 parent: Journal de bord
 has_children: false
 ---

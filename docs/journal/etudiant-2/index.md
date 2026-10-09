@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Étudiant 2
+title: ZANG OBIANG Marie-Miséricorde
 parent: Journal de bord
-has_children: true
+has_children: false
 ---
 
 # Étudiant 2
