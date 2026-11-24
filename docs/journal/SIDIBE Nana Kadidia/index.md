@@ -1,8 +1,8 @@
 ---
 layout: default
-title: SIDIBE Nana Kadidia
+title: SIDIBE Nana Kadidia 
 parent: Journal de bord
-has_children: false
+has_children: false 
 ---
 
 # Étudiant 1
